@@ -1,0 +1,16 @@
+C:\Users\lacyr\source\repos\file-lab-lacyrich\obj\Debug\net5.0\file-lab-lacyrich.csproj.AssemblyReference.cache
+C:\Users\lacyr\source\repos\file-lab-lacyrich\obj\Debug\net5.0\file-lab-lacyrich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacyr\source\repos\file-lab-lacyrich\obj\Debug\net5.0\file-lab-lacyrich.AssemblyInfoInputs.cache
+C:\Users\lacyr\source\repos\file-lab-lacyrich\obj\Debug\net5.0\file-lab-lacyrich.AssemblyInfo.cs
+C:\Users\lacyr\source\repos\file-lab-lacyrich\obj\Debug\net5.0\file-lab-lacyrich.csproj.CoreCompileInputs.cache
+C:\Users\lacyr\source\repos\file-lab-lacyrich\bin\Debug\net5.0\file-lab-lacyrich.exe
+C:\Users\lacyr\source\repos\file-lab-lacyrich\bin\Debug\net5.0\file-lab-lacyrich.deps.json
+C:\Users\lacyr\source\repos\file-lab-lacyrich\bin\Debug\net5.0\file-lab-lacyrich.runtimeconfig.json
+C:\Users\lacyr\source\repos\file-lab-lacyrich\bin\Debug\net5.0\file-lab-lacyrich.runtimeconfig.dev.json
+C:\Users\lacyr\source\repos\file-lab-lacyrich\bin\Debug\net5.0\file-lab-lacyrich.dll
+C:\Users\lacyr\source\repos\file-lab-lacyrich\bin\Debug\net5.0\file-lab-lacyrich.pdb
+C:\Users\lacyr\source\repos\file-lab-lacyrich\obj\Debug\net5.0\file-lab-lacyrich.dll
+C:\Users\lacyr\source\repos\file-lab-lacyrich\obj\Debug\net5.0\ref\file-lab-lacyrich.dll
+C:\Users\lacyr\source\repos\file-lab-lacyrich\obj\Debug\net5.0\file-lab-lacyrich.pdb
+C:\Users\lacyr\source\repos\file-lab-lacyrich\obj\Debug\net5.0\file-lab-lacyrich.genruntimeconfig.cache
+C:\Users\lacyr\source\repos\file-lab-lacyrich\obj\Debug\net5.0\refint\file-lab-lacyrich.dll

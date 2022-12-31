@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "file-lab-lacyrich/1.0.0": {
+        "runtime": {
+          "file-lab-lacyrich.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "file-lab-lacyrich/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

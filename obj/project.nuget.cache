@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PNZCCk14HRiW0l1PRVQ8vdDz6dj870VEtyRMhhX7m+12M8M4WHQ6OoMVA/BUf3iPGHgVWvQ1zsXCZW68FOKk9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lacyr\\source\\repos\\file-lab-lacyrich\\file-lab-lacyrich.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lacyr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
